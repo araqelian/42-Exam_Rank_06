@@ -3,7 +3,7 @@
 Assignment &nbsp;name&nbsp;&nbsp; : &nbsp;mini_serv<br>
 Expected &nbsp;files&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;mini_serv.c<br>
 Allowed &nbsp;functions &nbsp;&nbsp;: &nbsp;write, &nbsp;close, &nbsp;select, &nbsp;socket, &nbsp;accept, &nbsp;listen, &nbsp;send, &nbsp;recv, &nbsp;bind, &nbsp;strstr, &nbsp;malloc, &nbsp;realloc, &nbsp;free, &nbsp;calloc, &nbsp;bzero, &nbsp;atoi, &nbsp;sprintf, &nbsp;strlen, &nbsp;exit, &nbsp;strcpy, &nbsp;strcat, &nbsp;memset<br>
---------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------
 </p>
 <p>
 Write &nbsp;a &nbsp;program &nbsp;that &nbsp;will &nbsp;listen &nbsp;for &nbsp;client &nbsp;to &nbsp;connect &nbsp;on &nbsp;a &nbsp;certain &nbsp;port &nbsp;on &nbsp;127.0.0.1 &nbsp;and &nbsp;will &nbsp;let &nbsp;clients &nbsp;to &nbsp;speak &nbsp;with &nbsp;each &nbsp;other <br><br>
